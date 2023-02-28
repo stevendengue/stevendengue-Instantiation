@@ -19,6 +19,6 @@ public class Lab {
      */
     public Object instantiateANewObject(){
         Object ref = new Object();
-        return ref;
+        return ref ;
     }
 }
